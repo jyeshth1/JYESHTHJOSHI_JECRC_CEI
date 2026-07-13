@@ -1,0 +1,62 @@
+[
+    {
+        "sha": "7cb06f360dd44efac059848df1a9beee7643b018",
+        "author": "github-actions[bot]",
+        "message": "\ud83d\udcdd Update release notes\n\n[skip ci]",
+        "date": "2026-07-07 19:03:19+00:00"
+    },
+    {
+        "sha": "1e60e3299246c6b1515ab9ef1b1c5de11bf4454b",
+        "author": "dependabot[bot]",
+        "message": "\u2b06 Bump CodSpeedHQ/action from 4.17.6 to 4.18.1 in the github-actions group (#15950)\n\nSigned-off-by: dependabot[bot] <support@github.com>\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
+        "date": "2026-07-07 19:02:48+00:00"
+    },
+    {
+        "sha": "fb53e1df99d05689d2c519bd30ae50442c3240cb",
+        "author": "github-actions[bot]",
+        "message": "\ud83d\udcdd Update release notes\n\n[skip ci]",
+        "date": "2026-07-07 19:01:05+00:00"
+    },
+    {
+        "sha": "74963395fc32638a2b698d9fc0b2a46961556b1b",
+        "author": "dependabot[bot]",
+        "message": "\u2b06 Bump the python-packages group with 8 updates (#15952)\n\nSigned-off-by: dependabot[bot] <support@github.com>\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
+        "date": "2026-07-07 19:00:31+00:00"
+    },
+    {
+        "sha": "3f3354a94d7c8b496258d7b762070e46704e01c1",
+        "author": "github-actions[bot]",
+        "message": "\ud83d\udcdd Update release notes\n\n[skip ci]",
+        "date": "2026-07-06 22:41:52+00:00"
+    },
+    {
+        "sha": "4cafad584d5eb4cff0ace66f25b6b9a461d6fa6f",
+        "author": "Sebasti\u00e1n Ram\u00edrez",
+        "message": "\ud83d\udd27 Update sponsors: add TutorCruncher (#15947)",
+        "date": "2026-07-06 22:41:18+00:00"
+    },
+    {
+        "sha": "dd17e4f723a23854cfe4b9b6258e31efd86ea523",
+        "author": "github-actions[bot]",
+        "message": "\ud83d\udcdd Update release notes\n\n[skip ci]",
+        "date": "2026-07-04 20:24:30+00:00"
+    },
+    {
+        "sha": "787e11b4266581c7623afa1bd950aecfe64e8eea",
+        "author": "Sebasti\u00e1n Ram\u00edrez",
+        "message": "\ud83d\udc77 Fix notify translations checkout target (#15933)",
+        "date": "2026-07-04 20:23:59+00:00"
+    },
+    {
+        "sha": "68c02766d4a537890a892d42c94fc4c4c4d16906",
+        "author": "github-actions[bot]",
+        "message": "\ud83d\udcdd Update release notes\n\n[skip ci]",
+        "date": "2026-07-04 20:04:00+00:00"
+    },
+    {
+        "sha": "f500ef131e0c00bd42b26706ce75ece89eb39081",
+        "author": "Sebasti\u00e1n Ram\u00edrez",
+        "message": "\ud83d\udc77 Fix latest-changes checkout target (#15932)",
+        "date": "2026-07-04 20:03:22+00:00"
+    }
+]
